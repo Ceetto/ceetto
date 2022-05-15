@@ -1,5 +1,5 @@
 # About me
-Hi, I'm Jahid. I'm a computer science student at Ghent University.
+Hi, I'm Jahid. Just a weeb studying computer science
 
 ## Skills
 - Java
