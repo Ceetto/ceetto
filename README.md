@@ -1,5 +1,5 @@
 # About me
-Hi, I'm Jahid. Just a weeb studying computer science
+Hi, I'm Jahid. Just a guy studying computer science
 
 ## Skills
 - Java
@@ -8,11 +8,6 @@ Hi, I'm Jahid. Just a weeb studying computer science
 - Kotlin
 - C++
 - SQL
-
-## Hobies
-- Games (jrpgs)
-- Anime
-- Table Tennis
 
 <!---
 jchetti/jchetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
